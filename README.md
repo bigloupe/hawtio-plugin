@@ -50,3 +50,5 @@ Edit your dashboard and include your JSON definition
   "uri": "/dashboards/team/all/simple-plugin.json"
 }
 ```
+
+
