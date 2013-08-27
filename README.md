@@ -1,4 +1,4 @@
 hawtio-plugin
 =============
 
-War Plugin for Hawtio (http://hawt.io/]
+War Plugin for Hawtio [http://hawt.io/]
