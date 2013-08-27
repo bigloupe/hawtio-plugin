@@ -37,7 +37,7 @@ Edit your dashboard and include your JSON definition
       "row": 1,
       "col": 2,
       "path": "jmx/charts",
-      "include": "app/html/simple.html",
+      "include": "/hawtio-simple-plugin/app/html/simple.html",
       "search": {
         "nid": "root-hawtio-plugin",
         "att": "ProcessCpuLoad%2CSystemCpuLoad%2CSystemLoadAverage"
