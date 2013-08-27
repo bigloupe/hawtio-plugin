@@ -51,4 +51,9 @@ Edit your dashboard and include your JSON definition
 }
 ```
 
+Add you javascript in index.html available in hawtio-web
+
+```javascript
+<script type="text/javascript" src="/hawtio-simple-plugin/app/js/simplePlugin.js"></script>
+```
 
